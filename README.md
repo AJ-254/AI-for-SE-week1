@@ -26,7 +26,10 @@ This project demonstrates how **if-else rules** can mimic AI-style decision-maki
    ```bash
    git clone https://github.com/AJ-254/AI-for-SE-week1.git
    cd AI-for-SE-week1
-
+2. Run the chatbot:
+   ```bash
+   python crypto_buddy.py
+   
 ---
 
 ## Example Queries:

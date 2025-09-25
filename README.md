@@ -28,8 +28,8 @@ This project demonstrates how **if-else rules** can mimic AI-style decision-maki
    cd AI-for-SE-week1
 2. Run the chatbot:
    ```bash
-   python crypto_buddy.py
-   
+   python crypto-buddy.py
+
 ---
 
 ## Example Queries:

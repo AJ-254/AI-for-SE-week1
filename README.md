@@ -1,6 +1,6 @@
 # CryptoBuddy — Rule-based Cryptocurrency Advisor Chatbot
 
-**Theme:** AI-Powered Financial Sidekick! 🌟  
+**Theme:** Your First AI-Powered Financial Sidekick! 🌟  
 **Course:** AI for SE Specialization — Week 1 Assignment  
 
 ## 📌 Description
@@ -27,21 +27,25 @@ This project demonstrates how **if-else rules** can mimic AI-style decision-maki
    git clone https://github.com/AJ-254/AI-for-SE-week1.git
    cd AI-for-SE-week1
 
-2. Run the chatbot:
-  ```bash
-    python crypto-buddy.py
+---
 
-## Exampple Quaries:
-    1. Which crypto is trending up?
-    2. What’s the most sustainable coin?
-    3. Show all coins
+## Example Queries:
+1. Which crypto is trending up?  
+2. What’s the most sustainable coin?  
+3. Show all coins  
+
+---
 
 ## ⚠️ Disclaimer
-This is educational only. Not financial advice.
-Crypto is risky — always do your own research.
+This is educational only. **Not financial advice.**  
+Crypto is risky — always do your own research.  
+
+---
 
 ## 📸 Screenshots
 <img src="img1.png" alt="screenshot of terminal">
 
+---
+
 ## Author
-Juliet Asiedu.
+👩‍💻 **Juliet Asiedu**  

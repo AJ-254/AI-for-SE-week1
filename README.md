@@ -31,21 +31,17 @@ This project demonstrates how **if-else rules** can mimic AI-style decision-maki
   ```bash
     python crypto-buddy.py
 
----
-### Example queries:
+## Example queries:
 1. "Which crypto is trending up?"
 2. "What’s the most sustainable coin?"
 3. "Show all coins"
 
----
-### ⚠️ Disclaimer
+## ⚠️ Disclaimer
 This is educational only. Not financial advice.
 Crypto is risky — always do your own research.
 
----
-### 📸 Screenshots
+## 📸 Screenshots
 <img src="img1.png" alt="screenshot of terminal">
 
----
-### Author
+## Author
 Juliet Asiedu.
